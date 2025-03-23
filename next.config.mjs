@@ -6,7 +6,7 @@ const nextConfig = {
   output: "export",
   distDir: "out",
   images: {
-    unoptimized: true, // GitHub Pages не підтримує image optimization
+    unoptimized: true, 
   },
   ...(isProd
     ? {
