@@ -6,12 +6,12 @@ const nextConfig = {
   output: "export",
   distDir: "out",
   images: {
-    unoptimized: true, 
+    unoptimized: true,
   },
   ...(isProd
     ? {
         basePath: "/test-task-for-veel",
-        assetPrefix: "/test-task-for-veel",
+        assetPrefix: "/test-task-for-veel/",
       }
     : {}),
 };

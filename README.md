@@ -21,7 +21,7 @@
 
 ## Deployment  
 - The app is deployed on GitHub Pages.  
-- Visit: `https://helenaua.github.io/test-task-for-veel/`  
+- Visit: https://helenaua.github.io/test-task-for-veel/  
 
 ## Installation  
 1. Clone the repository:   
